@@ -1,0 +1,55 @@
+body{
+    font-family: 'Shadows Into Light', cursive;
+    background-color:cornflowerblue;
+    color:black;
+}
+
+.header_div{
+    background-color:#CBF4BB;
+    color:black;
+}
+#cam , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+.main_div{
+    padding:10px;
+    margin-top:15px;
+    border:3px solid rgb(0, 238, 255);
+}
+
+.main_div2{
+    padding:10px;
+    margin-top:15px;
+    border:3px solid rgb(0, 238, 255);
+
+}
+
+.main_div2 h2,.main_div h2{
+    background-color:#CBF4BB;
+    width:300px;
+}
+
+.footer_div{
+margin-bottom:50px;
+}
+.footer_div img{
+    width:70px;   
+}
+.footer_div h4{
+    background: whitesmoke;
+    border-radius:10px;
+    padding:5px;
+}
+.right_footer{
+    text-align:center;
+    position:fixed;
+    width:100%;
+    line-height:3;
+    bottom:0;
+    font-size:20px;
+    background-color: tomato;
+}
